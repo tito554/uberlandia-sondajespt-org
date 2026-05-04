@@ -1,0 +1,51 @@
+# Sondajespt — Uberlandia
+
+> Geotechnical engineering services in Uberlandia, Brasil.
+
+## Services
+- [Ancoragens](https://uberlandia.sondajespt.org/ancoragens/)
+- [Cbr Viario](https://uberlandia.sondajespt.org/cbr-viario/)
+- [Colunas Brita](https://uberlandia.sondajespt.org/colunas-brita/)
+- [Densidade Cone Areia](https://uberlandia.sondajespt.org/densidade-cone-areia/)
+- [Ensaio Cpt](https://uberlandia.sondajespt.org/ensaio-cpt/)
+- [Ensaios Proctor](https://uberlandia.sondajespt.org/ensaios-proctor/)
+- [Escavacoes](https://uberlandia.sondajespt.org/escavacoes/)
+- [Escavacoes Profundas](https://uberlandia.sondajespt.org/escavacoes-profundas/)
+- [Estabilidade Taludes](https://uberlandia.sondajespt.org/estabilidade-taludes/)
+- [Estacas](https://uberlandia.sondajespt.org/estacas/)
+- [Fundacoes](https://uberlandia.sondajespt.org/fundacoes/)
+- [Geotecnia Viaria](https://uberlandia.sondajespt.org/geotecnia-viaria/)
+- [Granulometria](https://uberlandia.sondajespt.org/granulometria/)
+- [Injecoes](https://uberlandia.sondajespt.org/injecoes/)
+- [Investigacao](https://uberlandia.sondajespt.org/investigacao/)
+- [Isolamento Sismico](https://uberlandia.sondajespt.org/isolamento-sismico/)
+- [Lab In Situ](https://uberlandia.sondajespt.org/lab-in-situ/)
+- [Laboratorio](https://uberlandia.sondajespt.org/laboratorio/)
+- [Limites Atterberg](https://uberlandia.sondajespt.org/limites-atterberg/)
+- [Liquefacao](https://uberlandia.sondajespt.org/liquefacao/)
+- [Masw](https://uberlandia.sondajespt.org/masw/)
+- [Melhoramento](https://uberlandia.sondajespt.org/melhoramento/)
+- [Microzoneamento Sismico](https://uberlandia.sondajespt.org/microzoneamento-sismico/)
+- [Monitoramento Escavacoes](https://uberlandia.sondajespt.org/monitoramento-escavacoes/)
+- [Muros Contencao](https://uberlandia.sondajespt.org/muros-contencao/)
+- [Pavimento Flexivel](https://uberlandia.sondajespt.org/pavimento-flexivel/)
+- [Pavimento Rigido](https://uberlandia.sondajespt.org/pavimento-rigido/)
+- [Permeabilidade In Situ](https://uberlandia.sondajespt.org/permeabilidade-in-situ/)
+- [Pocos Inspecao](https://uberlandia.sondajespt.org/pocos-inspecao/)
+- [Radiers](https://uberlandia.sondajespt.org/radiers/)
+- [Refracao Sismica](https://uberlandia.sondajespt.org/refracao-sismica/)
+- [Resistividade](https://uberlandia.sondajespt.org/resistividade/)
+- [Sapatas](https://uberlandia.sondajespt.org/sapatas/)
+- [Sismica](https://uberlandia.sondajespt.org/sismica/)
+- [Sondagens Spt](https://uberlandia.sondajespt.org/sondagens-spt/)
+- [Taludes](https://uberlandia.sondajespt.org/taludes/)
+- [Triaxial](https://uberlandia.sondajespt.org/triaxial/)
+- [Tuneis Solo Mole](https://uberlandia.sondajespt.org/tuneis-solo-mole/)
+- [Vibrocompactacao](https://uberlandia.sondajespt.org/vibrocompactacao/)
+
+## Contact
+- Website: https://uberlandia.sondajespt.org/
+
+## About
+This site provides geotechnical engineering services in Uberlandia, Brasil.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
