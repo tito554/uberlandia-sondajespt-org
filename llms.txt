@@ -14,6 +14,7 @@
 - [Estabilidade Taludes](https://uberlandia.sondajespt.org/estabilidade-taludes/)
 - [Estacas](https://uberlandia.sondajespt.org/estacas/)
 - [Fundacoes](https://uberlandia.sondajespt.org/fundacoes/)
+- [Geofisica](https://uberlandia.sondajespt.org/geofisica/)
 - [Geotecnia Viaria](https://uberlandia.sondajespt.org/geotecnia-viaria/)
 - [Granulometria](https://uberlandia.sondajespt.org/granulometria/)
 - [Injecoes](https://uberlandia.sondajespt.org/injecoes/)
